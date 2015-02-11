@@ -1,0 +1,19 @@
+{
+  "name": "json-auth",
+  "version": "1.0.0",
+  "description": "Generate a token from a payload object and a secret key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/*"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducreyna/node-jsonauth.git"
+  },
+  "author": "Nathan Ducrey",
+  "license": "MIT license"
+}
