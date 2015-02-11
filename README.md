@@ -22,9 +22,6 @@ You can also add this project as a dependency in your nodejs project by editing 
 }
 ```
 
-Then, just run `npm install node-jsonauth`.
-
-
 ## How to use ?
 
 ```javascript
